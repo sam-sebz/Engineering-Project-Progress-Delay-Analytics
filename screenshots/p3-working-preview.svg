@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#f4f6f8"/>
+<rect width="1200" height="76" fill="#fff" stroke="#dae1e7"/>
+<text x="38" y="34" font-family="Arial" font-size="27" font-weight="700" fill="#18212b">Engineering Project Progress Monitor</text>
+<text x="38" y="58" font-family="Arial" font-size="14" fill="#65727e">Progress aggregation and ML delay-risk workflow</text>
+<text x="950" y="42" font-family="Arial" font-size="13" font-weight="700" fill="#0d5c8f">LOCAL PROTOTYPE PREVIEW</text>
+
+<rect x="35" y="100" width="350" height="100" rx="12" fill="#fff" stroke="#dae1e7"/>
+<text x="58" y="132" font-family="Arial" font-size="14" fill="#65727e">Projects</text><text x="58" y="170" font-family="Arial" font-size="30" font-weight="700" fill="#0d5c8f">10</text>
+<rect x="410" y="100" width="350" height="100" rx="12" fill="#fff" stroke="#dae1e7"/>
+<text x="433" y="132" font-family="Arial" font-size="14" fill="#65727e">Average progress</text><text x="433" y="170" font-family="Arial" font-size="30" font-weight="700" fill="#0d5c8f">85.8%</text>
+<rect x="785" y="100" width="380" height="100" rx="12" fill="#fff" stroke="#dae1e7"/>
+<text x="808" y="132" font-family="Arial" font-size="14" fill="#65727e">Delayed activities</text><text x="808" y="170" font-family="Arial" font-size="30" font-weight="700" fill="#0d5c8f">0</text>
+
+<rect x="35" y="225" width="1130" height="365" rx="12" fill="#fff" stroke="#dae1e7"/>
+<text x="58" y="258" font-family="Arial" font-size="19" font-weight="700" fill="#18212b">Project Portfolio</text>
+<text x="58" y="294" font-family="Arial" font-size="13" font-weight="700" fill="#65727e">PROJECT</text>
+<text x="610" y="294" font-family="Arial" font-size="13" font-weight="700" fill="#65727e">PROGRESS</text>
+<text x="790" y="294" font-family="Arial" font-size="13" font-weight="700" fill="#65727e">DELAYED</text>
+<text x="955" y="294" font-family="Arial" font-size="13" font-weight="700" fill="#65727e">STATUS</text>
+<line x1="55" y1="310" x2="1140" y2="310" stroke="#dae1e7"/>
+<text x="58" y="340" font-family="Arial" font-size="14">Demo Project 1</text><text x="610" y="340" font-family="Arial" font-size="14" font-weight="700">80.0%</text><text x="790" y="340" font-family="Arial" font-size="14">0</text><text x="955" y="340" font-family="Arial" font-size="14" font-weight="700" fill="#217e55">active</text>
+<line x1="55" y1="355" x2="1140" y2="355" stroke="#eef1f3"/>
+<text x="58" y="385" font-family="Arial" font-size="14">Demo Project 2</text><text x="610" y="385" font-family="Arial" font-size="14" font-weight="700">80.0%</text><text x="790" y="385" font-family="Arial" font-size="14">0</text><text x="955" y="385" font-family="Arial" font-size="14" font-weight="700" fill="#217e55">active</text>
+<line x1="55" y1="400" x2="1140" y2="400" stroke="#eef1f3"/>
+<text x="58" y="430" font-family="Arial" font-size="14">Demo Project 3</text><text x="610" y="430" font-family="Arial" font-size="14" font-weight="700">80.0%</text><text x="790" y="430" font-family="Arial" font-size="14">0</text><text x="955" y="430" font-family="Arial" font-size="14" font-weight="700" fill="#217e55">active</text>
+<text x="58" y="522" font-family="Arial" font-size="13" fill="#65727e">Dashboard reads from the local SQLite-backed FastAPI service.</text>
+
+<rect x="35" y="610" width="550" height="105" rx="12" fill="#fff" stroke="#dae1e7"/>
+<text x="58" y="642" font-family="Arial" font-size="18" font-weight="700" fill="#18212b">Delay Risk Model</text>
+<text x="58" y="675" font-family="Arial" font-size="14" fill="#65727e">ROC AUC</text><text x="145" y="675" font-family="Arial" font-size="17" font-weight="700">0.803</text>
+<text x="260" y="675" font-family="Arial" font-size="14" fill="#65727e">Accuracy</text><text x="350" y="675" font-family="Arial" font-size="17" font-weight="700">74.83%</text>
+<text x="480" y="675" font-family="Arial" font-size="14" fill="#65727e">F1</text><text x="510" y="675" font-family="Arial" font-size="17" font-weight="700">66.96%</text>
+<text x="620" y="675" font-family="Arial" font-size="17" font-weight="700" fill="#0d5c8f">FastAPI workflows</text>
+<text x="620" y="702" font-family="Arial" font-size="13" fill="#65727e">Projects, activities, progress, delay risk</text>
+<text x="58" y="735" font-family="Arial" font-size="12" fill="#65727e">Generated from the locally running prototype API state. Project data is synthetic.</text>
+</svg>
