@@ -2,6 +2,8 @@
 
 Full local prototype for tracking engineering-project progress and estimating activity delay risk.
 
+![Working UI Preview](screenshots/p3-working-preview.svg)
+
 ## Included
 - Project and activity management
 - Progress aggregation
